@@ -74,5 +74,14 @@ body{
         padding: 4vw   !important;
         font-size: 4vw !important;
     }
+    .messageBox{
+    
+        /* width: 70% !important; */
+        padding: 3vw   !important;
+        margin: 3vw !important;
+        border-radius: 1.5vm  !important;
+        font-size: 3.7vw  !important;
+    
+    }
     
 }
